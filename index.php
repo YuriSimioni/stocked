@@ -1,5 +1,3 @@
-<?php
-
-echo "Hello World";
-
-?>
+<script>
+    window.location.href = "./public/views/login.php";
+</script>
