@@ -1,0 +1,18 @@
+DataBase {
+
+    user {
+        id
+        username
+        login
+        access_level {
+            Super Admin
+            Admin
+            Manager
+            User
+        }
+        last_access
+        create_at
+    }
+
+
+}
